@@ -4,3 +4,6 @@ Wes
 
 10:55pm
 Just finished saving this file to my repository.
+
+10:59pm 
+I'm writing another line to see if I can commit the latest change.
